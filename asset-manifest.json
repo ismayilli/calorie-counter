@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/calorie-calculator/static/css/main.ebd731b3.css",
-    "main.js": "/calorie-calculator/static/js/main.1ea79949.js",
-    "static/js/787.cf2f0c6d.chunk.js": "/calorie-calculator/static/js/787.cf2f0c6d.chunk.js",
-    "static/media/logo_temp.png": "/calorie-calculator/static/media/logo_temp.48217fe4e36f679febe2.png",
-    "index.html": "/calorie-calculator/index.html",
-    "main.ebd731b3.css.map": "/calorie-calculator/static/css/main.ebd731b3.css.map",
-    "main.1ea79949.js.map": "/calorie-calculator/static/js/main.1ea79949.js.map",
-    "787.cf2f0c6d.chunk.js.map": "/calorie-calculator/static/js/787.cf2f0c6d.chunk.js.map"
+    "main.css": "/calorie-counter/static/css/main.ebd731b3.css",
+    "main.js": "/calorie-counter/static/js/main.dd8be089.js",
+    "static/js/787.cf2f0c6d.chunk.js": "/calorie-counter/static/js/787.cf2f0c6d.chunk.js",
+    "static/media/logo_temp.png": "/calorie-counter/static/media/logo_temp.48217fe4e36f679febe2.png",
+    "index.html": "/calorie-counter/index.html",
+    "main.ebd731b3.css.map": "/calorie-counter/static/css/main.ebd731b3.css.map",
+    "main.dd8be089.js.map": "/calorie-counter/static/js/main.dd8be089.js.map",
+    "787.cf2f0c6d.chunk.js.map": "/calorie-counter/static/js/787.cf2f0c6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebd731b3.css",
-    "static/js/main.1ea79949.js"
+    "static/js/main.dd8be089.js"
   ]
 }
